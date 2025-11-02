@@ -1,0 +1,1 @@
+sol1 : using extra space
