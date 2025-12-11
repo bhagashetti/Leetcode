@@ -1,0 +1,20 @@
+Problem Statement: Given an integer N, print the following pattern : 
+
+Here, N = 5.
+
+Examples:
+
+Input Format: N = 3
+Result: 
+* 
+* * 
+* * *
+
+Input Format: N = 6
+Result:
+* 
+* * 
+* * *
+* * * *
+* * * * *
+* * * * * *
