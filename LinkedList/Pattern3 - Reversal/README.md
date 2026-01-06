@@ -1,0 +1,1 @@
+Focus: 3 pointers (prev, curr, next)
