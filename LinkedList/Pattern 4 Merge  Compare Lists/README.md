@@ -1,0 +1,1 @@
+Focus: dummy node + pointer move
