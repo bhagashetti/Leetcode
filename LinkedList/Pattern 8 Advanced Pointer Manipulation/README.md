@@ -1,0 +1,1 @@
+Use dummy node to avoid head edge cases
